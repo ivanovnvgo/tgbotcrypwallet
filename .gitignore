@@ -25,3 +25,5 @@ usr/
 user.txt
 info.txt
 myNotes.txt
+
+*.odt
